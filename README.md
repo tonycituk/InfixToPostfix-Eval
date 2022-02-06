@@ -12,4 +12,4 @@ java InfijoAPostfijo <filename.txt>
 ```
 
 There is a example for the file you can pass as argument at [example](./exp_infijas.txt).
-Also the output at [example output](./exp_postfijas.txt)
+Also the output at [example output](./exp_postfijas.txt).
