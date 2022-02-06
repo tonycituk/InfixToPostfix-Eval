@@ -3,7 +3,7 @@
 ### Compile with
 
 ```bash
-java *.java
+javac *.java
 ```
 
 ### Run with
